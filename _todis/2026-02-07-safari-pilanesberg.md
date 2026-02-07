@@ -1,36 +1,13 @@
 ---
-title: "Safari a Pilanesberg: Una Giornata Incredibile!"
-date: 2026-02-07 19:30:00 +0200
+title: "Safari a Pilanesberg: Giorno 2, tra Tassi e Cene nel Boma"
+date: 2026-02-07 20:00:00 +0200
 ---
 
-La nostra avventura a Pilanesberg è iniziata alla grande! L'emozione era palpabile, soprattutto quella dei bambini, con gli occhi spalancati in cerca del primo avvistamento.
+La nostra avventura a Pilanesberg continua a regalarci spettacoli incredibili!
 
-Non abbiamo dovuto aspettare molto. Quasi subito, un maestoso rinoceronte ci ha attraversato la strada. Ale era affascinato!
+### Avvistamenti del pomeriggio/sera (16:30 - 20:00):
 
-![Alessandro e il Rinoceronte]({{ '/assets/images/2026-02-07-safari/rhino-and-son-real.jpg' | relative_url }})
-*La versione Pixar dell'incontro:*
-![Alessandro e il Rinoceronte stile Pixar]({{ '/assets/images/2026-02-07-safari/rhino-and-son-pixar.png' | relative_url }})
-
-Poco dopo, la savana si è animata con i suoi abitanti più iconici.
-
-### Note del pomeriggio:
-
-- Un **Vervet Monkey** 🐒 (avvistato da un attentissimo Seby!)
-- 1 **Elefante** in lontananza
-- Un branco di **Impala** composto da soli maschi ("bachelor herd")
-- Un **Roybock** (probabilmente un'antilope Rhebok)
-- 5 **Zebre**
-- Altri 9 **Impala**
-
-Le zebre erano particolarmente tranquille mentre pascolavano nell'erba alta.
-
-![Due Zebre nella savana]({{ '/assets/images/2026-02-07-safari/zebras-real.jpg' | relative_url }})
-*E come le vedrebbe un regista Pixar:*
-![Due Zebre stile Pixar]({{ '/assets/images/2026-02-07-safari/zebras-pixar.png' | relative_url }})
-
-### Avvistamenti della sera:
-
-Il safari serale ci ha regalato ancora più emozioni! Ecco il bottino:
+Il safari di oggi è stato ricco di sorprese. Ecco il bottino:
 - **Tsessebe** (un tipo di antilope)
 - **Red Hartebeest** (un'altra antilope, la "Red hot Beast" delle note)
 - 2 **Sciacalli** (Jackals)
@@ -40,5 +17,16 @@ Il safari serale ci ha regalato ancora più emozioni! Ecco il bottino:
 - 6 **Faraone** (Guinea fowl)
 - Un **Gufo reale maculato** (Spotted eagle owl)
 - E per finire... un **Tasso del miele** (Honey Badger), avvistato dal campione, Alessandro! 🦡
+- Un **Vervet Monkey** 🐒 (avvistato da un attentissimo Seby!)
+- Un branco di **Impala** composto da soli maschi ("bachelor herd")
+- Un **Roybock** (probabilmente un'antilope Rhebok)
+- 5 **Zebre**
+- Altri 9 **Impala**
 
-Che giornata incredibile. E siamo solo all'inizio!
+*Nota: Le foto degli avvistamenti di oggi arriveranno domani!*
+
+### La Boma Dinner
+
+Dopo il safari, ci siamo immersi in una tradizione sudafricana: la **Boma dinner**. È stata un'esperienza fantastica, una cena attorno a un grande falò sotto le stelle. L'atmosfera era magica. C'è stato anche un piccolo incidente diplomatico quando Alessandro, un po' stanco, ha rovesciato un piatto, ma la serata si è conclusa alla grande tra buon cibo e risate.
+
+Siamo rientrati a tempo di record, tutti a nanna per le 21:00. Domani la sveglia suona alle 5:00 per un'altra avventura nella savana!
