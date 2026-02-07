@@ -23,7 +23,11 @@ Il safari di oggi è stato ricco di sorprese. Ecco il bottino:
 - 5 **Zebre**
 - Altri 9 **Impala**
 
-*Nota: Le foto degli avvistamenti di oggi arriveranno domani!*
+La vastità della savana al tramonto era mozzafiato.
+
+![Paesaggio della savana]({{ '/assets/images/2026-02-07-safari/savana-landscape-real.jpg' | relative_url }})
+*E la sua versione da film d'animazione:*
+![Paesaggio della savana stile Pixar]({{ '/assets/images/2026-02-07-safari/savana-landscape-pixar.png' | relative_url }})
 
 ### La Boma Dinner
 
