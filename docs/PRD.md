@@ -63,4 +63,7 @@ tags: ["work", "alpha"]
 - **Deployment:** GitHub Pages via GitHub Actions.
 - **Stack:** Static HTML/JS (Vue.js or React via CDN for simplicity) or Next.js static export.
 - **Data Source:** Fetches raw markdown files from the repo itself (or a linked data repo).
-- **Features (v1):** Read-only view of lists.
+## 6. Engineering Standards
+- **Testing:** Test Driven Development (TDD) is mandatory. Logic for parsing Markdown and handling lists must be covered by unit tests.
+- **CI/CD:** GitHub Actions must run tests before deployment.
+

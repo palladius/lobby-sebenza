@@ -1,0 +1,28 @@
+{
+  "name": "lobby-sebenza",
+  "version": "1.0.0",
+  "description": "**Lobby Sebenza** (\"Lobby Works\" in Zulu/Xhosa) is a Markdown-based To-Do List application, co-created by **Riccardo Carlesso** and his AI Assistant, **Lobby**.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "echo 'Run: npx serve' or just open index.html in browser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palladius/lobby-sebenza.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/palladius/lobby-sebenza/issues"
+  },
+  "homepage": "https://github.com/palladius/lobby-sebenza#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
